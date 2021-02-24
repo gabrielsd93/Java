@@ -1,5 +1,5 @@
 package Inicio;
-public class Saludar
+public class NOmbre
 {
         public static void main(String args[])
         {
